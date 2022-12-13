@@ -22,10 +22,6 @@ Build a forecast model to predict the furniture sales of a store.
 
 ### ◈My Approach
 
-Creating Customer clusters to identify the different types of customers 
-
-This is achieved through unsupervised clustering algorithms in Machine Learning
-
 As this is a forecasting problem, I will be utilising time series analysis models such as ARMA, SARIMA and SARIMAX to forecast future furniture sales from 2018 to 2022. Additionally, I will resample the data by Changing the time frequency to monthly data, in order to get a clearer visual of the forecasts.
 
 ---
