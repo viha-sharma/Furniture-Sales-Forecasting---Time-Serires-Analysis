@@ -1,4 +1,4 @@
-# Furniture-Sales-Forecasting---Time-Serires-Analysis
+# Furniture Sales Forecasting -Time Series Analysis
 
 ## **Table of Contents**
 
